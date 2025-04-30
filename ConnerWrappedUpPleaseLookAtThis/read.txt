@@ -1,1 +1,10 @@
 Through the magic of trying and not sleeping, I have come up with the following. Please take a look!
+
+Also Please Note The Following:
+
+Create a folder, call it whatever you want, maybe heart quantum or something.
+Download the code and dataset.
+Go to visual studio, and click create new project
+Choose the very last option "From Existing Python Code"
+Choose the folder you created
+Run main file!
