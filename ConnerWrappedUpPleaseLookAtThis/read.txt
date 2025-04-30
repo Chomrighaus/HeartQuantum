@@ -7,4 +7,12 @@ Download the code and dataset.
 Go to visual studio, and click create new project
 Choose the very last option "From Existing Python Code"
 Choose the folder you created
-Run main file!
+After just clicking through the rest (nothing special)
+right click on each and every file and choose open
+Then save each file, and attempt to run (it won't)
+Then close everything (choose save or yes to any thing it throws at you)
+Then open visual studio back up and choose open a local folder
+Then choose the folder and click open
+then it should work
+
+there is probably an easier way to do this. My apologies...
